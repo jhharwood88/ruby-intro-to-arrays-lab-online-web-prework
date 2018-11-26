@@ -1,4 +1,5 @@
 def instantiate_new_array
+<<<<<<< HEAD
   return array=[]
 end
 
@@ -41,3 +42,7 @@ end
   
   
   
+=======
+  instantiate_new_array[]
+end
+>>>>>>> c2d837deda08d209b65a254b00ba5e42ddeefe86
